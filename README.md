@@ -1,16 +1,13 @@
-![Alt Text](assets/image.jpg)
+![Alt Text](assets/pic.png)
 
 <h1 align="center">Hi 👋, I'm Khadeja Farjana Bristi</h1>
-<h3 align="center">A passionate Project Manager from Bangladesh</h3>
-<p align="center">I’m a Project Manager with a strong foundation in software engineering and a passion for delivering impactful, user-focused solutions. I specialize in bridging the gap between business goals and technical execution, ensuring projects are delivered on time, within scope, and with measurable results.
-With hands-on experience in Agile methodologies, cross-functional team leadership, and data analysis, I thrive in collaborative environments where innovation meets execution. I also enjoy staying close to code—whether it's managing GitHub workflows, reviewing pull requests, or exploring the latest in data and product trends.</p>
+<h3 align="center">A passionate PHP Programmer from Bangladesh</h3>
+<p align="center">PHP Developer with a strong software engineering background, passionate about building scalable, user-focused web applications. Experienced in Laravel, Symfony, MySQL, and MVC architecture. Skilled in writing clean code, integrating APIs, and collaborating in Agile teams to deliver high-quality, reliable solutions.</p>
 
-- 🌱 I’m currently learning **Data science and Data Analytics**
+- 🌱 I’m currently interested in learning **AI, Data science and Data Analytics**
 
 
 - 👨‍💻 All of my projects are available at [https://github.com/farjana-bristy](https://github.com/farjana-bristy)
-
-- 💬 Ask me about **Project Management**
 
 
 - 📫 How to reach me **fbristy44@gmail.com**
@@ -25,7 +22,8 @@ With hands-on experience in Agile methodologies, cross-functional team leadershi
 
 ## 💻 Tech Stack:
 
-[![My Skills](https://skillicons.dev/icons?i=c,java,python,mysql,html,php,css,js,git,github,arduino)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,java,python,php,laravel,sql,mysql,html,css,js,git,github)](https://skillicons.dev)
+
 
 
 ## 🏅 Certifications
