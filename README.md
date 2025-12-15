@@ -22,7 +22,7 @@
 
 ## 💻 Tech Stack:
 
-[![My Skills](https://skillicons.dev/icons?i=c,java,python,php,laravel,sql,mysql,html,css,js,git,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,java,python,php,laravel,mysql,html,css,js,git,github)](https://skillicons.dev)
 
 
 
