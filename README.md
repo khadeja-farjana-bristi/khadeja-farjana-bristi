@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **fbristy44@gmail.com**
   
-*🔗 Portfolio:* [farjana-bristi.vercel.app](https://farjana-bristi.vercel.app/)*
+*🔗 Portfolio:* [khadeja-farjana-bristi.vercel.app](https://khadeja-farjana-bristi.vercel.app/)*
 
 ## 📊 Current Status
 
