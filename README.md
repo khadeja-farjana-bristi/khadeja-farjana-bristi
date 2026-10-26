@@ -16,9 +16,9 @@
 
 ## 📊 Current Status
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=farjana-bristy&theme=dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=khadeja-farjana-bristi&theme=dark)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=farjana-bristy&theme=dark) ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=farjana-bristy&theme=dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=khadeja-farjana-bristi&theme=dark) ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=khadeja-farjana-bristi&theme=dark)
 
 ## 💻 Tech Stack:
 
