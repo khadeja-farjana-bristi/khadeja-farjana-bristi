@@ -7,7 +7,7 @@
 - 🌱 I’m currently interested in learning **AI, Data science and Data Analytics**
 
 
-- 👨‍💻 All of my projects are available at [https://github.com/farjana-bristy](https://github.com/farjana-bristy)
+- 👨‍💻 All of my projects are available at [https://github.com/farjana-bristy](https://github.com/khadeja-farjana-bristi)
 
 
 - 📫 How to reach me **fbristy44@gmail.com**
